@@ -1,0 +1,14 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\bin\Debug\net9.0\BackEnd_C#.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\bin\Debug\net9.0\BackEnd_C#.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\bin\Debug\net9.0\BackEnd_C#.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\bin\Debug\net9.0\BackEnd_C#.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\bin\Debug\net9.0\BackEnd_C#.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\refint\BackEnd_C#.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\BackEnd_C#.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\obj\Debug\net9.0\ref\BackEnd_C#.dll
