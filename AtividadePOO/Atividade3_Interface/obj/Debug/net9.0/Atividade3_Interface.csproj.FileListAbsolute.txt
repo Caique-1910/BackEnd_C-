@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\bin\Debug\net9.0\Atividade3_Interface.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\bin\Debug\net9.0\Atividade3_Interface.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\bin\Debug\net9.0\Atividade3_Interface.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\bin\Debug\net9.0\Atividade3_Interface.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\bin\Debug\net9.0\Atividade3_Interface.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\refint\Atividade3_Interface.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\Atividade3_Interface.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\Atividade3_Interface\obj\Debug\net9.0\ref\Atividade3_Interface.dll

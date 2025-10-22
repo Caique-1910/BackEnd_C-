@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\bin\Debug\net9.0\SegregacaoInterfaces-S.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\bin\Debug\net9.0\SegregacaoInterfaces-S.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\bin\Debug\net9.0\SegregacaoInterfaces-S.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\bin\Debug\net9.0\SegregacaoInterfaces-S.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\bin\Debug\net9.0\SegregacaoInterfaces-S.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\refint\SegregacaoInterfaces-S.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\SegregacaoInterfaces-S.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SegregacaoInterfaces-S\obj\Debug\net9.0\ref\SegregacaoInterfaces-S.dll
