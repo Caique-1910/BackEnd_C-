@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\refint\SubstituicaoLiskov-L.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\ref\SubstituicaoLiskov-L.dll

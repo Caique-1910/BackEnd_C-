@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\bin\Debug\net9.0\InversaoDependencias-D.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\bin\Debug\net9.0\InversaoDependencias-D.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\bin\Debug\net9.0\InversaoDependencias-D.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\bin\Debug\net9.0\InversaoDependencias-D.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\bin\Debug\net9.0\InversaoDependencias-D.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\refint\InversaoDependencias-D.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\InversaoDependencias-D.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\InversaoDependencias-D\obj\Debug\net9.0\ref\InversaoDependencias-D.dll

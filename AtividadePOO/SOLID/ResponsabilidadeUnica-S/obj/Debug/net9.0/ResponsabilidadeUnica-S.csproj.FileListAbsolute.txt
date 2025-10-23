@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\bin\Debug\net9.0\ResponsabilidadeUnica-S.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\refint\ResponsabilidadeUnica-S.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ResponsabilidadeUnica-S.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\AtividadePOO\SOLID\ResponsabilidadeUnica-S\obj\Debug\net9.0\ref\ResponsabilidadeUnica-S.dll
