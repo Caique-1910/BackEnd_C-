@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\bin\Debug\net9.0\Atividade23_10_ClassePessoa.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\bin\Debug\net9.0\Atividade23_10_ClassePessoa.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\bin\Debug\net9.0\Atividade23_10_ClassePessoa.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\bin\Debug\net9.0\Atividade23_10_ClassePessoa.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\bin\Debug\net9.0\Atividade23_10_ClassePessoa.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\refint\Atividade23_10_ClassePessoa.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\Atividade23_10_ClassePessoa.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Atividade23_10_ClassePessoa\obj\Debug\net9.0\ref\Atividade23_10_ClassePessoa.dll
