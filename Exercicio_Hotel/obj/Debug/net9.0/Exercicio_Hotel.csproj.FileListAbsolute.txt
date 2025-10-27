@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\bin\Debug\net9.0\Exercicio_Hotel.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\bin\Debug\net9.0\Exercicio_Hotel.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\bin\Debug\net9.0\Exercicio_Hotel.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\bin\Debug\net9.0\Exercicio_Hotel.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\bin\Debug\net9.0\Exercicio_Hotel.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\refint\Exercicio_Hotel.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\Exercicio_Hotel.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_Hotel\obj\Debug\net9.0\ref\Exercicio_Hotel.dll
