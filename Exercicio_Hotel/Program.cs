@@ -27,7 +27,7 @@ class Program
 
         Console.WriteLine($"Reserva Normal de {hosp.nome}:");
         reserva.ResumoReserva();
-        Console.WriteLine($"Reserva VIP de {hosp2.nome}:");
+        Console.WriteLine($"\nReserva VIP de {hosp2.nome}:");
         reservaVip.ResumoReserva();
 
     }

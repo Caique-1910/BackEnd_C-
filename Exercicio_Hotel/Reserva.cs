@@ -17,8 +17,7 @@ namespace Exercicio_Hotel
             Console.WriteLine("Resumo da Reserva:");
             hospede.ExibirInformacoes();
             quarto.ExibirDetalhes();
-            Console.WriteLine($"Dias de Estadia: {Dias}");
-            Console.WriteLine($"Total a Pagar: {CalcularTotal()}");
+            Console.WriteLine($"Valor total : {CalcularTotal()}");
         }
 
     }
