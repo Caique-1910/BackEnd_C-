@@ -21,7 +21,7 @@ namespace Exercicio_Hotel
             Console.WriteLine($"Preço da Diária: {precoDiaria}");
             if (Disponivel)
             {
-                Console.WriteLine($"Disponível: {Disponivel}");
+                Console.WriteLine("Quarto Disponível");
             }
             else
             {
