@@ -1,14 +1,13 @@
 namespace Exercicio_Hotel
 {
-public class ReservaVip : Reserva
+    public class ReservaVip : Reserva
     {
         public double Desconto { get; set; }
 
-        public double CalcularTotal()
+        public new double CalcularTotal()
         {
-            double valorConvertido = (double)Dias;
-            double totalSemDesconto = quarto.precoDiaria * valorConvertido;
-            double valorDesconto = totalSemDesconto * (Desconto / 100);
+            double totalSemDesconto = base.CalcularTotal();
+            double valorDesconto = (Desconto / 100) * totalSemDesconto;
             return totalSemDesconto - valorDesconto;
         }
     }

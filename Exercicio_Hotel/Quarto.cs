@@ -1,18 +1,17 @@
 namespace Exercicio_Hotel
 {
-    public class  Quarto
+    public class Quarto
     {
-        public int numero{ get; set; }
-        public string tipo{ get; set; }
-        public double precoDiaria{ get; set; }
-        public bool Disponivel{ get; set; }
-
+        public int numero { get; set; }
+        public string tipo { get; set; }
+        public double precoDiaria { get; set; }
+        public bool Disponivel { get; set; }
         public Quarto(int numero, string tipo, double precoDiaria)
         {
-            numero = numero;
-            tipo = tipo;
-            precoDiaria = precoDiaria;
-            Disponivel = true;
+            this.numero = numero;
+            this.tipo = tipo;
+            this.precoDiaria = precoDiaria;
+            this.Disponivel = true;
         }
 
         public void ExibirDetalhes()
@@ -34,10 +33,11 @@ namespace Exercicio_Hotel
         {
             Disponivel = false;
         }
-        
+
         public void Liberar()
         {
             Disponivel = true;
         }
+
     }
 }

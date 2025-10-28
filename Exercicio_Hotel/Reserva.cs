@@ -20,6 +20,6 @@ namespace Exercicio_Hotel
             Console.WriteLine($"Dias de Estadia: {Dias}");
             Console.WriteLine($"Total a Pagar: {CalcularTotal()}");
         }
-        
+
     }
 }
