@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\bin\Debug\net9.0\Exercicio_SistemaPersonagem.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\bin\Debug\net9.0\Exercicio_SistemaPersonagem.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\bin\Debug\net9.0\Exercicio_SistemaPersonagem.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\bin\Debug\net9.0\Exercicio_SistemaPersonagem.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\bin\Debug\net9.0\Exercicio_SistemaPersonagem.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\refint\Exercicio_SistemaPersonagem.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\Exercicio_SistemaPersonagem.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaPersonagem\obj\Debug\net9.0\ref\Exercicio_SistemaPersonagem.dll

@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\bin\Debug\net9.0\Exercicio_SistemaAnimal.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\bin\Debug\net9.0\Exercicio_SistemaAnimal.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\bin\Debug\net9.0\Exercicio_SistemaAnimal.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\bin\Debug\net9.0\Exercicio_SistemaAnimal.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\bin\Debug\net9.0\Exercicio_SistemaAnimal.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\refint\Exercicio_SistemaAnimal.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\Exercicio_SistemaAnimal.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaAnimal\obj\Debug\net9.0\ref\Exercicio_SistemaAnimal.dll

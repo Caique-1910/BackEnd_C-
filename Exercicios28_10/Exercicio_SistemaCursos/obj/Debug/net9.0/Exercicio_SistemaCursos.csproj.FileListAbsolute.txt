@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\bin\Debug\net9.0\Exercicio_SistemaCursos.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\bin\Debug\net9.0\Exercicio_SistemaCursos.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\bin\Debug\net9.0\Exercicio_SistemaCursos.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\bin\Debug\net9.0\Exercicio_SistemaCursos.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\bin\Debug\net9.0\Exercicio_SistemaCursos.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\refint\Exercicio_SistemaCursos.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\Exercicio_SistemaCursos.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaCursos\obj\Debug\net9.0\ref\Exercicio_SistemaCursos.dll

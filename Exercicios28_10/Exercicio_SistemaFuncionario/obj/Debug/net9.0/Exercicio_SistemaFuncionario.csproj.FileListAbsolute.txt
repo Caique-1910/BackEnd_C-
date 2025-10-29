@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\bin\Debug\net9.0\Exercicio_SistemaFuncionario.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\bin\Debug\net9.0\Exercicio_SistemaFuncionario.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\bin\Debug\net9.0\Exercicio_SistemaFuncionario.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\bin\Debug\net9.0\Exercicio_SistemaFuncionario.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\bin\Debug\net9.0\Exercicio_SistemaFuncionario.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\refint\Exercicio_SistemaFuncionario.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\Exercicio_SistemaFuncionario.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaFuncionario\obj\Debug\net9.0\ref\Exercicio_SistemaFuncionario.dll

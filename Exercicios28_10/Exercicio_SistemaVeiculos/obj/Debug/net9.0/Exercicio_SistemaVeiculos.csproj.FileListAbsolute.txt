@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\bin\Debug\net9.0\Exercicio_SistemaVeiculos.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\bin\Debug\net9.0\Exercicio_SistemaVeiculos.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\bin\Debug\net9.0\Exercicio_SistemaVeiculos.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\bin\Debug\net9.0\Exercicio_SistemaVeiculos.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\bin\Debug\net9.0\Exercicio_SistemaVeiculos.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\refint\Exercicio_SistemaVeiculos.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\Exercicio_SistemaVeiculos.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicio_SistemaVeiculos\obj\Debug\net9.0\ref\Exercicio_SistemaVeiculos.dll
