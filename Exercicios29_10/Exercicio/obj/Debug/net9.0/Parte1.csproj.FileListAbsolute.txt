@@ -1,0 +1,15 @@
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\bin\Debug\net9.0\Parte1.exe
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\bin\Debug\net9.0\Parte1.deps.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\bin\Debug\net9.0\Parte1.runtimeconfig.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\bin\Debug\net9.0\Parte1.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\bin\Debug\net9.0\Parte1.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.sourcelink.json
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\refint\Parte1.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.pdb
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\Parte1.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\BackEnd_C#\Exercicios29_10\Parte1\obj\Debug\net9.0\ref\Parte1.dll
