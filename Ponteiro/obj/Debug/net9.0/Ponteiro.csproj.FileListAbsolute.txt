@@ -1,0 +1,14 @@
+C:\Users\52918563862\Desktop\Ponteiro\bin\Debug\net9.0\Ponteiro.exe
+C:\Users\52918563862\Desktop\Ponteiro\bin\Debug\net9.0\Ponteiro.deps.json
+C:\Users\52918563862\Desktop\Ponteiro\bin\Debug\net9.0\Ponteiro.runtimeconfig.json
+C:\Users\52918563862\Desktop\Ponteiro\bin\Debug\net9.0\Ponteiro.dll
+C:\Users\52918563862\Desktop\Ponteiro\bin\Debug\net9.0\Ponteiro.pdb
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.AssemblyInfoInputs.cache
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.AssemblyInfo.cs
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.csproj.CoreCompileInputs.cache
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.dll
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\refint\Ponteiro.dll
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.pdb
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\Ponteiro.genruntimeconfig.cache
+C:\Users\52918563862\Desktop\Ponteiro\obj\Debug\net9.0\ref\Ponteiro.dll
