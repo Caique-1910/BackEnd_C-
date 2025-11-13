@@ -1,0 +1,19 @@
+@model SistemaVeiculoMVC.Models.Veiculo
+
+<h2>Cadastrar Funcionario</h2>
+
+<form asp-action="Criar">
+    <label>Modelo:</label>
+    <input type="text" name="modeloConstrutor" class="form-control">
+
+    <label>Ano:</label>
+    <input type="number" name="anoConstrutor" class="form-control" step="0.01"> @*Controla casas decimais step*@
+
+    <label>Tipo:</label>
+    <select name="tipoConstrutor" class="form-control">
+        <option value="Moto">Moto</option>
+        <option value="Carro">Carro</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+</form>
