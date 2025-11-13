@@ -4711,32 +4711,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Senaisp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\52918563862\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Senaisp\\Desktop\\Sistema de Cursos\\Sitema de Cursos MVC\\Sitema de Cursos MVC.csproj",
+      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\SistemaCursoMVC\\Sitema de Cursos MVC.csproj",
       "projectName": "Sitema de Cursos MVC",
-      "projectPath": "c:\\Users\\Senaisp\\Desktop\\Sistema de Cursos\\Sitema de Cursos MVC\\Sitema de Cursos MVC.csproj",
-      "packagesPath": "C:\\Users\\Senaisp\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Senaisp\\Desktop\\Sistema de Cursos\\Sitema de Cursos MVC\\obj\\",
+      "projectPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\SistemaCursoMVC\\Sitema de Cursos MVC.csproj",
+      "packagesPath": "C:\\Users\\52918563862\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\SistemaCursoMVC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Senaisp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\52918563862\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4797,7 +4789,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

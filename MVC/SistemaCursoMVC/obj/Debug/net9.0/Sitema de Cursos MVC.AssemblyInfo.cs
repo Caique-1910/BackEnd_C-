@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sitema de Cursos MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50fd7b3aa60550dc1d3d0a6b0190a560e12a7e90")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sitema de Cursos MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sitema de Cursos MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
