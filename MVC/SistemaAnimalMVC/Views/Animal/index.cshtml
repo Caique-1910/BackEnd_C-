@@ -1,8 +1,8 @@
 @model List<SistemaAnimalMVC.Models.Animal>
 
-<h2>Veiculos</h2>
+<h2>Animal</h2>
 
-<a asp-action="Criar" class="btn btn-primary">Novo Veiculo</a>
+<a asp-action="Criar" class="btn btn-primary">Animal</a>
 
 <table class="table mt-3">
     <tr>
@@ -16,7 +16,6 @@
     {
         <tr>
             <td>@animal.Nome</td>
-            <td>@animal.GetType().Name</td> 
             <td>@animal.EmitirSom()</td>
             <td>@animal.TipoAlimentacao()</td>
             <td>

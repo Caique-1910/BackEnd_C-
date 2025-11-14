@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\SistemaJogoMVC\\SistemaJogoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\SistemaJogoMVC\\SistemaJogoMVC.csproj",
       "projectName": "SistemaJogoMVC",
-      "projectPath": "C:\\Users\\52918563862\\Desktop\\SistemaJogoMVC\\SistemaJogoMVC.csproj",
+      "projectPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\SistemaJogoMVC\\SistemaJogoMVC.csproj",
       "packagesPath": "C:\\Users\\52918563862\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52918563862\\Desktop\\SistemaJogoMVC\\obj\\",
+      "outputPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\SistemaJogoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\52918563862\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,26 +1,19 @@
-@model List<SistemaJogoMVC.Models.Personagem>
+@model SistemaJogoMVC.Models.Personagem
 
-<h2>Veiculos</h2>
+<h2>Personagem</h2>
 
-<a asp-action="Criar" class="btn btn-primary">Novo Veiculo</a>
+<form asp-action="Criar">
+    <label>Nome:</label>
+    <input type="text" name="nomeConstrutor" class="form-control">
 
-<table class="table mt-3">
-    <tr>
-        <th>Nome</th>
-        <th>Nivel</th>
-        <th>Tipo: </th>
-        <th>Acoes</th>
-    </tr>
+    <label>Nivel:</label>
+    <input type="number" name="nivelConstrutor" class="form-control" step="0.01"> @*Controla casas decimais step*@
 
-    @foreach(var personagem in Model)
-    {
-        <tr>
-            <td>@personagem.Nome</td>
-            <td>@personagem.GetType().Name</td> 
-            <td>R$ @personagem.CalcularPoder()</td>
-            <td>
-                <a asp-action="Deletar" asp-route-id="@personagem.Id" class="btn btn-danger">Excluir</a>
-            </td>
-        </tr>
-    }
-</table> 
+    <label>Tipo:</label>
+    <select name="tipoConstrutor" class="form-control">
+        <option value="Guerreiro">Guerreiro</option>
+        <option value="Mago">Mago</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Salvar</button>
+</form>

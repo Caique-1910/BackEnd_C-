@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaAnimalMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50fd7b3aa60550dc1d3d0a6b0190a560e12a7e90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+385757074711e3a76a9259f9b1ffbd70dd4ae13b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaAnimalMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaAnimalMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

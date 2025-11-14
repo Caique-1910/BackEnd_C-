@@ -1,8 +1,8 @@
 @model List<SistemaJogoMVC.Models.Personagem>
 
-<h2>Veiculos</h2>
+<h2>Personagem</h2>
 
-<a asp-action="Criar" class="btn btn-primary">Novo Veiculo</a>
+<a asp-action="Criar" class="btn btn-primary">Novo Personagem</a>
 
 <table class="table mt-3">
     <tr>
@@ -16,8 +16,8 @@
     {
         <tr>
             <td>@personagem.Nome</td>
-            <td>@personagem.GetType().Name</td> 
-            <td>@personagem.ExibirStatus()</td>
+            <td>@personagem.Nivel</td> 
+            <td>@personagem.Tipo</td>
             <td>
                 <a asp-action="Deletar" asp-route-id="@personagem.Id" class="btn btn-danger">Excluir</a>
             </td>
