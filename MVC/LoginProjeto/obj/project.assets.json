@@ -7856,11 +7856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\LoginProjeto\\LoginProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\LoginProjeto\\LoginProjeto.csproj",
       "projectName": "LoginProjeto",
-      "projectPath": "C:\\Users\\52918563862\\Desktop\\LoginProjeto\\LoginProjeto.csproj",
+      "projectPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\LoginProjeto\\LoginProjeto.csproj",
       "packagesPath": "C:\\Users\\52918563862\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52918563862\\Desktop\\LoginProjeto\\obj\\",
+      "outputPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\LoginProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\52918563862\\AppData\\Roaming\\NuGet\\NuGet.Config"
