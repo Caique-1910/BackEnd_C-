@@ -7856,11 +7856,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\Projeto Aurum MVC\\AurumLab\\AurumLab.csproj",
+      "projectUniqueName": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\Projeto Aurum MVC\\AurumLab\\AurumLab.csproj",
       "projectName": "AurumLab",
-      "projectPath": "C:\\Users\\52918563862\\Desktop\\Projeto Aurum MVC\\AurumLab\\AurumLab.csproj",
+      "projectPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\Projeto Aurum MVC\\AurumLab\\AurumLab.csproj",
       "packagesPath": "C:\\Users\\52918563862\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52918563862\\Desktop\\Projeto Aurum MVC\\AurumLab\\obj\\",
+      "outputPath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\Projeto Aurum MVC\\AurumLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\52918563862\\AppData\\Roaming\\NuGet\\NuGet.Config"

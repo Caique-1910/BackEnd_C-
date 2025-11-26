@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v6p9vqyEB/A=",
+  "dgSpecHash": "7haKeQoDsVc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\52918563862\\Desktop\\Projeto Aurum MVC\\AurumLab\\AurumLab.csproj",
+  "projectFilePath": "C:\\Users\\52918563862\\Desktop\\BackEnd_C#\\MVC\\Projeto Aurum MVC\\AurumLab\\AurumLab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\52918563862\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\52918563862\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
