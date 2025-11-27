@@ -561,3 +561,4 @@ C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\AurumLab.pdb
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\AurumLab.genruntimeconfig.cache
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\ref\AurumLab.dll
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\gco28ymkds-brzl8gycod.gz
