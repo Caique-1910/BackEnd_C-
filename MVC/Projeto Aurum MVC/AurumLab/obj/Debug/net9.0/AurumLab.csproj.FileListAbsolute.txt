@@ -546,7 +546,6 @@ C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\vgtvuu7hb2-2p6pwmlnfm.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\4b9b619cu8-k9n3rdalum.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\w1e2l4k7j4-61n19gt1b8.gz
-C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\8isofwbvg4-xtxxf3hu2r.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\u0hzue7lrf-fnlze7omrw.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\zn2p11n22b-83z65sbs8h.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\9vq159p7zn-jybjv5nqng.gz
@@ -562,3 +561,7 @@ C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\AurumLab.genruntimeconfig.cache
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\ref\AurumLab.dll
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\gco28ymkds-brzl8gycod.gz
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\tyilgmywf6-8jxm2w76o3.gz
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\mxey2y3spy-vzqubb3vsn.gz
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\v79vlo6nov-78b2v3hwmg.gz
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\Projeto Aurum MVC\AurumLab\obj\Debug\net9.0\compressed\zsrtgt45wd-xtxxf3hu2r.gz
