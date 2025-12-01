@@ -6,6 +6,6 @@ const erro = document.querySelector(".erro");
 form.addEventListener("submit", e => {
     if (usuario.value.trim() === "" || senha.value.trim() === "") {
         e.preventDefault();
-        erro.textContent = "Preencha usuário e senha.";
+        erro.textContent = "Preencha email e senha.";
     }
 });

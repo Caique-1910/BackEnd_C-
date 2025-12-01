@@ -60,7 +60,7 @@ namespace LoginProjeto.Controllers
         public IActionResult Sair()
         {
             HttpContext.Session.Clear();
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "Cadastro");
         }
     }
 }

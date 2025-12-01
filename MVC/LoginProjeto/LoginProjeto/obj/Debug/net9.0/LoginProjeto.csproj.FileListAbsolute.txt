@@ -769,7 +769,6 @@ C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\8ro1s9rb7e-aegj6krkaa.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\5vf7b49jf2-ackcsvpagb.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\yd78ohnklz-61n19gt1b8.gz
-C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\fwn2mdinx8-k6sayg3avf.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\staticwebassets.development.json
@@ -780,6 +779,7 @@ C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\LoginProjeto.pdb
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\LoginProjeto.genruntimeconfig.cache
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\ref\LoginProjeto.dll
-C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\umqyigi81q-rkqs4asj85.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\vbl5nx6io4-z6alqjmks5.gz
 C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\qn7vg816zk-fstxnmk15d.gz
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\umqyigi81q-yvrv09yfkm.gz
+C:\Users\52918563862\Desktop\BackEnd_C#\MVC\LoginProjeto\LoginProjeto\obj\Debug\net9.0\compressed\fwn2mdinx8-0zmot54pux.gz
